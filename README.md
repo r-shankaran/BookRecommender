@@ -1,0 +1,1 @@
+This program utilizes Playwright to scrape the Barnes & Noble website. Based on your book genre preference (fiction vs. nonfiction) and age, this program gives you a book recommendation using the top book from the various Barnes & Noble Bestseller lists.
